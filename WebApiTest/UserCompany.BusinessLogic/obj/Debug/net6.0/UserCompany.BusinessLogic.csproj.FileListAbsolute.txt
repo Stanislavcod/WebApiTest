@@ -1,0 +1,15 @@
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\bin\Debug\net6.0\UserCompany.BusinessLogic.deps.json
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\bin\Debug\net6.0\UserCompany.BusinessLogic.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\bin\Debug\net6.0\UserCompany.BusinessLogic.pdb
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\bin\Debug\net6.0\UserCompany.Model.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\bin\Debug\net6.0\UserCompany.Model.pdb
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.csproj.AssemblyReference.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.AssemblyInfoInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.AssemblyInfo.cs
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.csproj.CopyComplete
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\refint\UserCompany.BusinessLogic.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\UserCompany.BusinessLogic.pdb
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.BusinessLogic\obj\Debug\net6.0\ref\UserCompany.BusinessLogic.dll

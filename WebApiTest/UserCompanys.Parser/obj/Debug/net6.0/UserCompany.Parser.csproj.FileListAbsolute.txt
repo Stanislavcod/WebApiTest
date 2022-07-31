@@ -1,0 +1,5 @@
+C:\GitHub\WebApiTest\WebApiTest\UserCompanys.Parser\obj\Debug\net6.0\UserCompany.Parser.csproj.AssemblyReference.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompanys.Parser\obj\Debug\net6.0\UserCompany.Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\WebApiTest\WebApiTest\UserCompanys.Parser\obj\Debug\net6.0\UserCompany.Parser.AssemblyInfoInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompanys.Parser\obj\Debug\net6.0\UserCompany.Parser.AssemblyInfo.cs
+C:\GitHub\WebApiTest\WebApiTest\UserCompanys.Parser\obj\Debug\net6.0\UserCompany.Parser.csproj.CoreCompileInputs.cache
