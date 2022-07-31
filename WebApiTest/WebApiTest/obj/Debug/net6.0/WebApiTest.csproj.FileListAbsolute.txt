@@ -63,3 +63,9 @@ C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\UserCompany.Business
 C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\UserCompany.Model.dll
 C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\UserCompany.BusinessLogic.pdb
 C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\UserCompany.Model.pdb
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Humanizer.dll
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GitHub\WebApiTest\WebApiTest\WebApiTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
