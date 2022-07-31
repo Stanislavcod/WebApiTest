@@ -1,11 +1,14 @@
 ﻿
 using UserCompany.Model.Models;
+using UserCompany.Model.ModelsDto;
+using UserCompany.Model.ViewModels;
 
 namespace UserCompany.BusinessLogic.Services.Contracts
 {
     public interface IAuthService
     {
-        string Post(User user);
-        User GetUser(string email, string password);
+        TokenDto Token(LoginDto loginDto);
+        TokenDto GetToken(User user);
+        TokenDto Refresh(RefreshTokenDto model);
     }
 }

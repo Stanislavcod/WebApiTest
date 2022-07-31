@@ -8,9 +8,9 @@ namespace UserCompany.BusinessLogic.Mapper
     {
         public MappingProfile()
         {
-            CreateMap<User, UserViewModel>().ReverseMap();
-            CreateMap<User,CreateUserViewModel>().ReverseMap();
-            CreateMap<User, UpdateUserViewModel>().ReverseMap();
+            CreateMap<User, RegisterDto>().ReverseMap();
+            CreateMap<User,UserDto>().ReverseMap();
+            CreateMap<User, LoginDto>().ReverseMap();
         }
     }
 }
