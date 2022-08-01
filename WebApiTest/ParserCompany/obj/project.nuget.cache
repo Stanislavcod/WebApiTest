@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U7uZCyNYVSO1MXIJDrUz5DbS/G4FdL5xayA5QSsX7iBrpa9wKXFCNCzI2PAVZsSnOFAzcn4xgwuEj2dY/qamtw==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\WebApiTest\\WebApiTest\\ParserCompany\\ParserCompany.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasd\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}

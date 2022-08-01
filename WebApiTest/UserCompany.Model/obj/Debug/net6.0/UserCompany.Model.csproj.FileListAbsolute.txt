@@ -1,0 +1,12 @@
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\bin\Debug\net6.0\UserCompany.Model.deps.json
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\bin\Debug\net6.0\UserCompany.Model.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\bin\Debug\net6.0\UserCompany.Model.pdb
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.csproj.AssemblyReference.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.AssemblyInfoInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.AssemblyInfo.cs
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.csproj.CoreCompileInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\refint\UserCompany.Model.dll
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\UserCompany.Model.pdb
+C:\GitHub\WebApiTest\WebApiTest\UserCompany.Model\obj\Debug\net6.0\ref\UserCompany.Model.dll

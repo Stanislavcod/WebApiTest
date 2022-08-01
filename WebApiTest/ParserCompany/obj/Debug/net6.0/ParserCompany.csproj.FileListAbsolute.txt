@@ -1,0 +1,17 @@
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\ParserCompany.exe
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\ParserCompany.deps.json
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\ParserCompany.runtimeconfig.json
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\ParserCompany.dll
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\ParserCompany.pdb
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.csproj.AssemblyReference.cache
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.AssemblyInfoInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.AssemblyInfo.cs
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.csproj.CoreCompileInputs.cache
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.csproj.CopyComplete
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.dll
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\refint\ParserCompany.dll
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.pdb
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ParserCompany.genruntimeconfig.cache
+C:\GitHub\WebApiTest\WebApiTest\ParserCompany\obj\Debug\net6.0\ref\ParserCompany.dll
